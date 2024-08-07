@@ -1,13 +1,9 @@
 <a href="Insert Bookstore link here"><img src='Cover.jpg' align= 'right'/></a>
 
-# Introduction to Biostatistics with JMP #
+# Introduction to Biostatistics with JMP
 by Dr. Steve Figard
- 
 
 # Project Title 
-
- 
- 
 This repository contains sample data sets for the book <i>Introduction to Biostatistics with JMP</i>. Data files are JMP data sets.<p>
 <a href="https://www.sas.com/store/books/categories/usage-and-reference/introduction-to-biostatistics-with-jmp-/prodBK_69798_en.html"><img src="https://img.shields.io/badge/Buy%20Now-SAS%20Book%20Store-blue.svg" alt="SAS Book Store" align= 'center'/> </a>
 <div style="text-align:right" markdown="1">
@@ -32,10 +28,8 @@ The author uses an engaging, conversational tone to explain concepts and keep re
 <a href="https://support.sas.com/en/books/authors/steve-figard.html">About the Author</a>
 
 
-  <a href="https://www.sas.com/store/books/categories/usage-and-reference/introduction-to-biostatistics-with-jmp-/prodBK_69798_en.html"><img src="https://img.shields.io/badge/Buy%20Now-SAS%20Book%20Store-blue.svg" alt="SAS Book Store" align= 'center'/> </a>
+<a href="https://www.sas.com/store/books/categories/usage-and-reference/introduction-to-biostatistics-with-jmp-/prodBK_69798_en.html"><img src="https://img.shields.io/badge/Buy%20Now-SAS%20Book%20Store-blue.svg" alt="SAS Book Store" align= 'center'/> </a>
 
 
 ## License
-
-
 This project is licensed under the [Apache 2.0 License](./LICENSE).
